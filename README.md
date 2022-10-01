@@ -8,7 +8,7 @@ Steps to run this project:
 4. Run http://localhost:3000/ in your browser.
 
 
-<img src="/cockroachdb.pdf"/>
+<pdf src="/cockroachdb.pdf"/>
  <hr></hr>
 <p align="center">
   <samp>
