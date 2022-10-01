@@ -9,7 +9,9 @@ Steps to run this project:
 
 """
 
-contributor - JOSUE BOLAÑOS
-2020 - jbolanosc
+<img src="https://university.cockroachlabs.com/certificates/2d6d561993cd4ab78b488199ac981e01"/>
+ <hr></hr>
+<p align="center">
+  <samp>
 
 """
